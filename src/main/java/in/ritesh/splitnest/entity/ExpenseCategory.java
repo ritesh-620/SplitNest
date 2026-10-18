@@ -1,4 +1,4 @@
-package in.ritesh.splitnest.model;
+package in.ritesh.splitnest.entity;
 
 public enum ExpenseCategory {
     FOOD,
