@@ -1,5 +1,7 @@
 package in.ritesh.splitnest.entity;
 
+import in.ritesh.splitnest.enums.ExpenseCategory;
+
 import java.time.LocalDate;
 
 public class Expense {
